@@ -1061,8 +1061,6 @@ Larocque, S., Watkins, J., & Weisbrod, E. (2025). *Consensus? An Examination of 
 - **Market Outcomes Analyzed:** Abnormal returns, post-earnings-announcement drift, bid–ask spreads, trading volume, and return volatility around earnings announcements.
 
 ---
-You are a quantitative finance researcher.  Please summarize the attached article; be sure to note its key methodology and data sources, its main empirical findings, and its relevance for forecasting stock returns.
-Please output in markdown format; include a relative link to the filename and a reference line to cite the source.
 
 ### Main Empirical Findings
 
@@ -1078,9 +1076,7 @@ Please output in markdown format; include a relative link to the filename and a 
    - Greater **salience** (more widely used or visible).
 
 4. **Dominant Role of I/B/E/S:**  
-   On average, **I/B/E/S ranks highest** in measures of quality and salience, and market reactions align more closely with I/B/E/S-based earnings surprises. This provides validation for its widespread use in academic asset-pricYou are a quantitative finance researcher.  Please summarize the attached article; be sure to note its key methodology and data sources, its main empirical findings, and its relevance for forecasting stock returns.
-Please output in markdown format; include a relative link to the filename and a reference line to cite the source.
-ing and accounting research.
+   On average, **I/B/E/S ranks highest** in measures of quality and salience, and market reactions align more closely with I/B/E/S-based earnings surprises. This provides validation for its widespread use in academic asset-pricing and accounting research.
 
 5. **Strategic Differentiation by Data Providers:**  
    Results are consistent with FDPs pursuing **differentiated information production strategies**, which can unintentionally introduce frictions into capital markets.
